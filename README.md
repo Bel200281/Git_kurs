@@ -7,3 +7,5 @@
 - Овощной суп
 - Оладьи на кефире
 - [Курица «Пикассо»](chicken_picasso.md)
+- [Курины бульон](chicken_broth.md)
+- [Курица «Пикассо»2](chicken_picasso_recipe.md)
