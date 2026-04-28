@@ -1,7 +1,7 @@
 # Рецепт: Банановый хлеб
 [Ссылка на оригинал](https://eda.ru/recepty/vypechka-deserty/bananovyy-hleb-104302)
 
-![картинка1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-hF8QmQwI1Kvmb5MB2bWsiq6ENR7QrQs2Q&s)
+![картинка1](https://avatars.mds.yandex.net/get-vertis-journal/4220003/b6cbf02a-dd36-4b37-b3bb-501f8e5c99b9.jpeg/1600x1600)
 
 
 ### Ингредиенты
