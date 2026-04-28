@@ -6,12 +6,14 @@
 
 [1.2 Картофель «Айдахо»](kartofel_aidos_recipes_list.md)
 
+[1.3 Куриный бульон»](chicken_broth.md)
+
+
 2.Выпечка:
 
-[2.1 Брауни](kartofel_aidos_recipes_list.md)
+[2.1 Брауни](brownie.md)
 
 [2.2 Банановые панкейки](bananpanc_recipes_list.md)
-
 
 
 3.Десерты:
