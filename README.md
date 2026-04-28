@@ -2,7 +2,7 @@
 
 1.Основные блюда:
 
-[1.1 Курица «Пикассо»](chicken_picasso_recipe.md)
+[1.1 Курица «Пикассо»](chicken_picasso.md)
 
 [1.2 Картофель «Айдахо»](kartofel_aidos_recipes_list.md)
 
