@@ -1,7 +1,7 @@
 # Рецепт: Оладьи на кефире
 [Ссылка на оригинал](https://eda.rambler.ru/recepty/vypechka-deserty/oladi-na-kefire-29574)
 
-![картинка](https://img.iamcook.ru/2018/upl/recipes/cat/u-d1da8122093a76d4b6574664cf20fa64.JPG)
+![картинка](https://eda.video/storage/oars1QkjuqFE492TOpCHR926CsjdvQa2WaT6oDTU.jpg)
 
 ### Ингредиенты
 | Название        	 | Количество        |
